@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Redesigned New Tab",
   "version": "1.4",
-  "description": "A custom redesigned interface for the Chrome New Tab page.",
+  "update_url": "https://raw.githubusercontent.com/WTFIU/New-Tab-Page/main/updates.xml",
   "chrome_url_overrides": {
     "newtab": "newtab.html"
   },
